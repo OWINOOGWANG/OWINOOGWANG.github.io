@@ -1,51 +1,87 @@
-body     {
-          background-color:#e4f7e4;
-        }
+body {
+  background-color: #e4f7e4;
+  margin: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
 
-.navbar  {
-          width: 100%;
-          height: 4%;
-          background-color: white;
-          }
+.navbar {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 100%;
+  height: 4%;
+  background-color: white;
+}
 
-#SALMA    {padding-bottom: 2%;
+#SALMA {
+  padding-bottom: 2%;
+}
 
-          }
+#PROFILE {
+  padding-left: 7%;
+  padding-top: 10%;
+  background-image: url(IMAGES/SALMA.jpg);
+  background-size: 700px 400px;
+  background-repeat: no-repeat;
+}
 
-#BEN     {
-          color: black;
-          text-align: center;
+#BEN {
+  color: black;
+  text-align: center;
+}
 
-         }
+#ABOUT {
+  color: black;
+}
 
-#ABOUT   {
-          color: black;
-
-         }
 #contact {
-          color: black;
-          text-align: left;
-
-          }
-#FILMS{
-       color: black;
-       padding-left: 5%;
-
+  color: black;
+  text-align: left;
 }
-#GALLERY{
-         color: black;
-         padding-right: 10%;
 
+#FILMS {
+  color: black;
+  padding-left: 5%;
 }
-#CAMPAIGNS{
-           color: black;
-           padding-left: 5%;
 
+#GALLERY {
+  color: black;
+  padding-right: 10%;
 }
-#PROJECTS{
-          color: black;
 
+#CAMPAIGNS {
+  color: black;
+  padding-left: 13.2%;
 }
-#FOOTER{background-color: white;
 
+#PROJECTS {
+  color: black;
+}
+
+#FOOTER {
+  background-color: white;
+  max-height: 40%;
+}
+
+#t {
+  text-align: left;
+  padding-top: 1%;
+}
+
+#c {
+  text-align: center;
+  padding-top: 1%;
+}
+
+#p {
+  text-align: left;
+  padding-top: 1%;
+}
+
+#j {
+  text-align: left;
 }
