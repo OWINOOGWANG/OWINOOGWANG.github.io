@@ -1,0 +1,97 @@
+body {
+  background-color: #e4f7e4;
+min-width: 100%;
+}
+
+#navbar {
+  margin-bottom: 0;
+  background-color: white;
+}
+
+#SALMA {
+  padding-bottom: 2%;
+}
+
+#PROFILE {
+  padding-left: 9%;
+  padding-top: 10%;
+  background-image: url(IMAGES/SALMA.jpg);
+  background-size: 600px 300px;
+  background-repeat: no-repeat;
+}
+
+#BEN {
+  color: black;
+  padding-left: 795px;
+
+}
+
+#ABOUT {
+  color: black;
+
+  padding-left:300px;
+}
+#join{
+  padding-left: 250px;
+}
+
+#contact {
+  color: black;
+  text-align: left;
+}
+#info{
+  padding-right: 10%;
+}
+
+#FILMS {
+  color: black;
+  padding-left: 10%;
+}
+
+#GALLERY {
+  color: black;
+  padding-left: 9%;
+
+}
+
+#CAMPAIGNS {
+  color: black;
+  padding-left: 18%;
+}
+
+#PROJECTS {
+  color: black;
+
+
+}
+#space{
+  min-height: 20px;
+}
+
+#FOOTER {
+  background-color: white;
+  max-height: 40%;
+}
+
+#t {
+  text-align: left;
+  padding-top: 1%;
+}
+
+#c {
+  text-align: center;
+  padding-top: 1%;
+}
+
+#p {
+  text-align: left;
+  padding-top: 1%;
+}
+
+#j {
+  text-align: left;
+}
+#bottom{
+  padding-bottom: 1%;
+  padding-top: 1%;
+}
