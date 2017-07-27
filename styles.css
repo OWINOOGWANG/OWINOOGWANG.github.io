@@ -1,12 +1,17 @@
 body {
   background-color: #e4f7e4;
-<<<<<<< HEAD
-min-width: 100%;
 }
 
 #navbar {
   margin-bottom: 0;
   background-color: white;
+  width: 100%;
+  height: 4%;
+
+}
+#BEN {
+  color: black;
+  padding-left: 790px;
 }
 
 #SALMA {
@@ -15,50 +20,10 @@ min-width: 100%;
 
 #PROFILE {
   padding-left: 9%;
-  padding-top: 10%;
-  background-image: url(IMAGES/SALMA.jpg);
-  background-size: 600px 300px;
-  background-repeat: no-repeat;
-}
-
-#BEN {
-  color: black;
-  padding-left: 795px;
-
-=======
-  margin: 0;
-  margin-left: 0;
-  margin-right: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.navbar {
-  margin-left: 0;
-  margin-right: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-  width: 100%;
-  height: 4%;
-  background-color: white;
-}
-
-#SALMA {
-  padding-bottom: 2%;
-}
-
-#PROFILE {
-  padding-left: 7%;
-  padding-top: 10%;
+  padding-top: 12%;
   background-image: url(IMAGES/SALMA.jpg);
   background-size: 700px 400px;
   background-repeat: no-repeat;
-}
-
-#BEN {
-  color: black;
-  text-align: center;
->>>>>>> d64405331c2e55be6788d6cb0ead432bdbbe8942
 }
 
 #ABOUT {
